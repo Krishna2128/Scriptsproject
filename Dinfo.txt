@@ -18,7 +18,7 @@ ID  NAME   MATHS PHYSICS CHEMISTRY COMPUTERS
 
 9  Beck    79    67       78        79
 
-10 Ron    88    78       79        60
+10 John    88    78       79        60
 
 
 
