@@ -1,0 +1,25 @@
+ID  NAME   MATHS PHYSICS CHEMISTRY COMPUTERS
+
+1  Aravind  92    88       78        78
+
+2  Hari  78    68       79        90     
+
+3  Harsha    89    89       98        88
+
+4  Mike  79    78       87        80
+
+5  Ragav   78    89       89        90
+
+6  Harry     70    67       69        80
+
+7  Sushan     80    90       78        79
+
+8  Max    78    89       68        90
+
+9  Beck    79    67       78        79
+
+10 Ron    88    78       79        60
+
+
+
+
